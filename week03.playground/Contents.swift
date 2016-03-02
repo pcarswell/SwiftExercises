@@ -16,7 +16,7 @@ import Foundation
 
 var message = "Nearly all men can stand adversity, but if you want to test a man's character, give him power."
 var comprAlphabet = "abcdefghijklmnopqrstuvwxyz"
-var msgKey : Int = 15
+var msgKey : Int = 23
 
 comprAlphabet.isEmpty
 
